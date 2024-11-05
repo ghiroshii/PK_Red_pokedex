@@ -1,0 +1,1202 @@
+{
+    "bulbasaur": {
+        "info": [
+            "Name: Bulbasaur",
+            "Type: Grass/Poison",
+            "ID: 001",
+            "img/0001.png"
+        ]
+    },
+    "ivysaur": {
+        "info": [
+            "Name: Ivysaur",
+            "Type: Grass/Poison",
+            "ID: 002",
+            "img/0002.png"
+        ]
+    },
+    "venusaur": {
+        "info": [
+            "Name: Venusaur",
+            "Type: Grass/Poison",
+            "ID: 003",
+            "img/0003.png"
+        ]
+    },
+    "charmander": {
+        "info": [
+            "Name: Charmander",
+            "Type: Fire",
+            "ID: 004",
+            "img/0004.png"
+        ]
+    },
+    "charmeleon": {
+        "info": [
+            "Name: Charmeleon",
+            "Type: Fire",
+            "ID: 005",
+            "img/0005.png"
+        ]
+    },
+    "charizard": {
+        "info": [
+            "Name: Charizard",
+            "Type: Fire/Flying",
+            "ID: 006",
+            "img/0006.png"
+        ]
+    },
+    "squirtle": {
+        "info": [
+            "Name: Squirtle",
+            "Type: Water",
+            "ID: 007",
+            "img/0007.png"
+        ]
+    },
+    "wartortle": {
+        "info": [
+            "Name: Wartortle",
+            "Type: Water",
+            "ID: 008",
+            "img/0008.png"
+        ]
+    },
+    "blastoise": {
+        "info": [
+            "Name: Blastoise",
+            "Type: Water",
+            "ID: 009",
+            "img/0009.png"
+        ]
+    },
+    "caterpie": {
+        "info": [
+            "Name: Caterpie",
+            "Type: Bug",
+            "ID: 010",
+            "img/0010.png"
+        ]
+    },
+    "metapod": {
+        "info": [
+            "Name: Metapod",
+            "Type: Bug",
+            "ID: 011",
+            "img/0011.png"
+        ]
+    },
+    "butterfree": {
+        "info": [
+            "Name: Butterfree",
+            "Type: Bug/Flying",
+            "ID: 012",
+            "img/0012.png"
+        ]
+    },
+    "weedle": {
+        "info": [
+            "Name: Weedle",
+            "Type: Bug/Poison",
+            "ID: 013",
+            "img/0013.png"
+        ]
+    },
+    "kakuna": {
+        "info": [
+            "Name: Kakuna",
+            "Type: Bug/Poison",
+            "ID: 014",
+            "img/0014.png"
+        ]
+    },
+    "beedrill": {
+        "info": [
+            "Name: Beedrill",
+            "Type: Bug/Poison",
+            "ID: 015",
+            "img/0015.png"
+        ]
+    },
+    "pidgey": {
+        "info": [
+            "Name: Pidgey",
+            "Type: Normal/Flying",
+            "ID: 016",
+            "img/0016.png"
+        ]
+    },
+    "pidgeotto": {
+        "info": [
+            "Name: Pidgeotto",
+            "Type: Normal/Flying",
+            "ID: 017",
+            "img/0017.png"
+        ]
+    },
+    "pidgeot": {
+        "info": [
+            "Name: Pidgeot",
+            "Type: Normal/Flying",
+            "ID: 018",
+            "img/0018.png"
+        ]
+    },
+    "rattata": {
+        "info": [
+            "Name: Rattata",
+            "Type: Normal",
+            "ID: 019",
+            "img/0019.png"
+        ]
+    },
+    "raticate": {
+        "info": [
+            "Name: Raticate",
+            "Type: Normal",
+            "ID: 020",
+            "img/0020.png"
+        ]
+    },
+    "spearow": {
+        "info": [
+            "Name: Spearow",
+            "Type: Normal/Flying",
+            "ID: 021",
+            "img/0021.png"
+        ]
+    },
+    "fearow": {
+        "info": [
+            "Name: Fearow",
+            "Type: Normal/Flying",
+            "ID: 022",
+            "img/0022.png"
+        ]
+    },
+    "ekans": {
+        "info": [
+            "Name: Ekans",
+            "Type: Poison",
+            "ID: 023",
+            "img/0023.png"
+        ]
+    },
+    "arbok": {
+        "info": [
+            "Name: Arbok",
+            "Type: Poison",
+            "ID: 024",
+            "img/0024.png"
+        ]
+    },
+    "pikachu": {
+        "info": [
+            "Name: Pikachu",
+            "Type: Electric",
+            "ID: 025",
+            "img/0025.png"
+        ]
+    },
+    "raichu": {
+        "info": [
+            "Name: Raichu",
+            "Type: Electric",
+            "ID: 026",
+            "img/0026.png"
+        ]
+    },
+    "sandshrew": {
+        "info": [
+            "Name: Sandshrew",
+            "Type: Ground",
+            "ID: 027",
+            "img/0027.png"
+        ]
+    },
+    "sandslash": {
+        "info": [
+            "Name: Sandslash",
+            "Type: Ground",
+            "ID: 028",
+            "img/0028.png"
+        ]
+    },
+    "nidoranf": {
+        "info": [
+            "Name: Nidoran\u2640",
+            "Type: Poison",
+            "ID: 029",
+            "img/0029.png"
+        ]
+    },
+    "nidorina": {
+        "info": [
+            "Name: Nidorina",
+            "Type: Poison",
+            "ID: 030",
+            "img/0030.png"
+        ]
+    },
+    "nidoqueen": {
+        "info": [
+            "Name: Nidoqueen",
+            "Type: Poison/Ground",
+            "ID: 031",
+            "img/0031.png"
+        ]
+    },
+    "nidoranm": {
+        "info": [
+            "Name: Nidoran\u2642",
+            "Type: Poison",
+            "ID: 032",
+            "img/0032.png"
+        ]
+    },
+    "nidorino": {
+        "info": [
+            "Name: Nidorino",
+            "Type: Poison",
+            "ID: 033",
+            "img/0033.png"
+        ]
+    },
+    "nidoking": {
+        "info": [
+            "Name: Nidoking",
+            "Type: Poison/Ground",
+            "ID: 034",
+            "img/0034.png"
+        ]
+    },
+    "clefairy": {
+        "info": [
+            "Name: Clefairy",
+            "Type: Fairy",
+            "ID: 035",
+            "img/0035.png"
+        ]
+    },
+    "clefable": {
+        "info": [
+            "Name: Clefable",
+            "Type: Fairy",
+            "ID: 036",
+            "img/0036.png"
+        ]
+    },
+    "vulpix": {
+        "info": [
+            "Name: Vulpix",
+            "Type: Fire",
+            "ID: 037",
+            "img/0037.png"
+        ]
+    },
+    "ninetales": {
+        "info": [
+            "Name: Ninetales",
+            "Type: Fire",
+            "ID: 038",
+            "img/0038.png"
+        ]
+    },
+    "jigglypuff": {
+        "info": [
+            "Name: Jigglypuff",
+            "Type: Normal/Fairy",
+            "ID: 039",
+            "img/0039.png"
+        ]
+    },
+    "wigglytuff": {
+        "info": [
+            "Name: Wigglytuff",
+            "Type: Normal/Fairy",
+            "ID: 040",
+            "img/0040.png"
+        ]
+    },
+    "zubat": {
+        "info": [
+            "Name: Zubat",
+            "Type: Poison/Flying",
+            "ID: 041",
+            "img/0041.png"
+        ]
+    },
+    "golbat": {
+        "info": [
+            "Name: Golbat",
+            "Type: Poison/Flying",
+            "ID: 042",
+            "img/0042.png"
+        ]
+    },
+    "oddish": {
+        "info": [
+            "Name: Oddish",
+            "Type: Grass/Poison",
+            "ID: 043",
+            "img/0043.png"
+        ]
+    },
+    "gloom": {
+        "info": [
+            "Name: Gloom",
+            "Type: Grass/Poison",
+            "ID: 044",
+            "img/0044.png"
+        ]
+    },
+    "vileplume": {
+        "info": [
+            "Name: Vileplume",
+            "Type: Grass/Poison",
+            "ID: 045",
+            "img/0045.png"
+        ]
+    },
+    "paras": {
+        "info": [
+            "Name: Paras",
+            "Type: Bug/Grass",
+            "ID: 046",
+            "img/0046.png"
+        ]
+    },
+    "parasect": {
+        "info": [
+            "Name: Parasect",
+            "Type: Bug/Grass",
+            "ID: 047",
+            "img/0047.png"
+        ]
+    },
+    "venonat": {
+        "info": [
+            "Name: Venonat",
+            "Type: Bug/Poison",
+            "ID: 048",
+            "img/0048.png"
+        ]
+    },
+    "venomoth": {
+        "info": [
+            "Name: Venomoth",
+            "Type: Bug/Poison",
+            "ID: 049",
+            "img/0049.png"
+        ]
+    },
+    "diglett": {
+        "info": [
+            "Name: Diglett",
+            "Type: Ground",
+            "ID: 050",
+            "img/0050.png"
+        ]
+    },
+    "dugtrio": {
+        "info": [
+            "Name: Dugtrio",
+            "Type: Ground",
+            "ID: 051",
+            "img/0051.png"
+        ]
+    },
+    "meowth": {
+        "info": [
+            "Name: Meowth",
+            "Type: Normal",
+            "ID: 052",
+            "img/0052.png"
+        ]
+    },
+    "persian": {
+        "info": [
+            "Name: Persian",
+            "Type: Normal",
+            "ID: 053",
+            "img/0053.png"
+        ]
+    },
+    "psyduck": {
+        "info": [
+            "Name: Psyduck",
+            "Type: Water",
+            "ID: 054",
+            "img/0054.png"
+        ]
+    },
+    "golduck": {
+        "info": [
+            "Name: Golduck",
+            "Type: Water",
+            "ID: 055",
+            "img/0055.png"
+        ]
+    },
+    "mankey": {
+        "info": [
+            "Name: Mankey",
+            "Type: Fighting",
+            "ID: 056",
+            "img/0056.png"
+        ]
+    },
+    "primeape": {
+        "info": [
+            "Name: Primeape",
+            "Type: Fighting",
+            "ID: 057",
+            "img/0057.png"
+        ]
+    },
+    "growlithe": {
+        "info": [
+            "Name: Growlithe",
+            "Type: Fire",
+            "ID: 058",
+            "img/0058.png"
+        ]
+    },
+    "arcanine": {
+        "info": [
+            "Name: Arcanine",
+            "Type: Fire",
+            "ID: 059",
+            "img/0059.png"
+        ]
+    },
+    "poliwag": {
+        "info": [
+            "Name: Poliwag",
+            "Type: Water",
+            "ID: 060",
+            "img/0060.png"
+        ]
+    },
+    "poliwhirl": {
+        "info": [
+            "Name: Poliwhirl",
+            "Type: Water",
+            "ID: 061",
+            "img/0061.png"
+        ]
+    },
+    "poliwrath": {
+        "info": [
+            "Name: Poliwrath",
+            "Type: Water/Fighting",
+            "ID: 062",
+            "img/0062.png"
+        ]
+    },
+    "abra": {
+        "info": [
+            "Name: Abra",
+            "Type: Psychic",
+            "ID: 063",
+            "img/0063.png"
+        ]
+    },
+    "kadabra": {
+        "info": [
+            "Name: Kadabra",
+            "Type: Psychic",
+            "ID: 064",
+            "img/0064.png"
+        ]
+    },
+    "alakazam": {
+        "info": [
+            "Name: Alakazam",
+            "Type: Psychic",
+            "ID: 065",
+            "img/0065.png"
+        ]
+    },
+    "machop": {
+        "info": [
+            "Name: Machop",
+            "Type: Fighting",
+            "ID: 066",
+            "img/0066.png"
+        ]
+    },
+    "machoke": {
+        "info": [
+            "Name: Machoke",
+            "Type: Fighting",
+            "ID: 067",
+            "img/0067.png"
+        ]
+    },
+    "machamp": {
+        "info": [
+            "Name: Machamp",
+            "Type: Fighting",
+            "ID: 068",
+            "img/0068.png"
+        ]
+    },
+    "bellsprout": {
+        "info": [
+            "Name: Bellsprout",
+            "Type: Grass/Poison",
+            "ID: 069",
+            "img/0069.png"
+        ]
+    },
+    "weepinbell": {
+        "info": [
+            "Name: Weepinbell",
+            "Type: Grass/Poison",
+            "ID: 070",
+            "img/0070.png"
+        ]
+    },
+    "victreebel": {
+        "info": [
+            "Name: Victreebel",
+            "Type: Grass/Poison",
+            "ID: 071",
+            "img/0071.png"
+        ]
+    },
+    "tentacool": {
+        "info": [
+            "Name: Tentacool",
+            "Type: Water/Poison",
+            "ID: 072",
+            "img/0072.png"
+        ]
+    },
+    "tentacruel": {
+        "info": [
+            "Name: Tentacruel",
+            "Type: Water/Poison",
+            "ID: 073",
+            "img/0073.png"
+        ]
+    },
+    "geodude": {
+        "info": [
+            "Name: Geodude",
+            "Type: Rock/Ground",
+            "ID: 074",
+            "img/0074.png"
+        ]
+    },
+    "graveler": {
+        "info": [
+            "Name: Graveler",
+            "Type: Rock/Ground",
+            "ID: 075",
+            "img/0075.png"
+        ]
+    },
+    "golem": {
+        "info": [
+            "Name: Golem",
+            "Type: Rock/Ground",
+            "ID: 076",
+            "img/0076.png"
+        ]
+    },
+    "ponyta": {
+        "info": [
+            "Name: Ponyta",
+            "Type: Fire",
+            "ID: 077",
+            "img/0077.png"
+        ]
+    },
+    "rapidash": {
+        "info": [
+            "Name: Rapidash",
+            "Type: Fire",
+            "ID: 078",
+            "img/0078.png"
+        ]
+    },
+    "slowpoke": {
+        "info": [
+            "Name: Slowpoke",
+            "Type: Water/Psychic",
+            "ID: 079",
+            "img/0079.png"
+        ]
+    },
+    "slowbro": {
+        "info": [
+            "Name: Slowbro",
+            "Type: Water/Psychic",
+            "ID: 080",
+            "img/0080.png"
+        ]
+    },
+    "magnemite": {
+        "info": [
+            "Name: Magnemite",
+            "Type: Electric/Steel",
+            "ID: 081",
+            "img/0081.png"
+        ]
+    },
+    "magneton": {
+        "info": [
+            "Name: Magneton",
+            "Type: Electric/Steel",
+            "ID: 082",
+            "img/0082.png"
+        ]
+    },
+    "farfetchd": {
+        "info": [
+            "Name: Farfetch'd",
+            "Type: Normal/Flying",
+            "ID: 083",
+            "img/0083.png"
+        ]
+    },
+    "doduo": {
+        "info": [
+            "Name: Doduo",
+            "Type: Normal/Flying",
+            "ID: 084",
+            "img/0084.png"
+        ]
+    },
+    "dodrio": {
+        "info": [
+            "Name: Dodrio",
+            "Type: Normal/Flying",
+            "ID: 085",
+            "img/0085.png"
+        ]
+    },
+    "seel": {
+        "info": [
+            "Name: Seel",
+            "Type: Water",
+            "ID: 086",
+            "img/0086.png"
+        ]
+    },
+    "dewgong": {
+        "info": [
+            "Name: Dewgong",
+            "Type: Water/Ice",
+            "ID: 087",
+            "img/0087.png"
+        ]
+    },
+    "grimer": {
+        "info": [
+            "Name: Grimer",
+            "Type: Poison",
+            "ID: 088",
+            "img/0088.png"
+        ]
+    },
+    "muk": {
+        "info": [
+            "Name: Muk",
+            "Type: Poison",
+            "ID: 089",
+            "img/0089.png"
+        ]
+    },
+    "shellder": {
+        "info": [
+            "Name: Shellder",
+            "Type: Water",
+            "ID: 090",
+            "img/0090.png"
+        ]
+    },
+    "cloyster": {
+        "info": [
+            "Name: Cloyster",
+            "Type: Water/Ice",
+            "ID: 091",
+            "img/0091.png"
+        ]
+    },
+    "gastly": {
+        "info": [
+            "Name: Gastly",
+            "Type: Ghost/Poison",
+            "ID: 092",
+            "img/0092.png"
+        ]
+    },
+    "haunter": {
+        "info": [
+            "Name: Haunter",
+            "Type: Ghost/Poison",
+            "ID: 093",
+            "img/0093.png"
+        ]
+    },
+    "gengar": {
+        "info": [
+            "Name: Gengar",
+            "Type: Ghost/Poison",
+            "ID: 094",
+            "img/0094.png"
+        ]
+    },
+    "onix": {
+        "info": [
+            "Name: Onix",
+            "Type: Rock/Ground",
+            "ID: 095",
+            "img/0095.png"
+        ]
+    },
+    "drowzee": {
+        "info": [
+            "Name: Drowzee",
+            "Type: Psychic",
+            "ID: 096",
+            "img/0096.png"
+        ]
+    },
+    "hypno": {
+        "info": [
+            "Name: Hypno",
+            "Type: Psychic",
+            "ID: 097",
+            "img/0097.png"
+        ]
+    },
+    "krabby": {
+        "info": [
+            "Name: Krabby",
+            "Type: Water",
+            "ID: 098",
+            "img/0098.png"
+        ]
+    },
+    "kingler": {
+        "info": [
+            "Name: Kingler",
+            "Type: Water",
+            "ID: 099",
+            "img/0099.png"
+        ]
+    },
+    "voltorb": {
+        "info": [
+            "Name: Voltorb",
+            "Type: Electric",
+            "ID: 100",
+            "img/0100.png"
+        ]
+    },
+    "electrode": {
+        "info": [
+            "Name: Electrode",
+            "Type: Electric",
+            "ID: 101",
+            "img/0101.png"
+        ]
+    },
+    "exeggcute": {
+        "info": [
+            "Name: Exeggcute",
+            "Type: Grass/Psychic",
+            "ID: 102",
+            "img/0102.png"
+        ]
+    },
+    "exeggutor": {
+        "info": [
+            "Name: Exeggutor",
+            "Type: Grass/Psychic",
+            "ID: 103",
+            "img/0103.png"
+        ]
+    },
+    "cubone": {
+        "info": [
+            "Name: Cubone",
+            "Type: Ground",
+            "ID: 104",
+            "img/0104.png"
+        ]
+    },
+    "marowak": {
+        "info": [
+            "Name: Marowak",
+            "Type: Ground",
+            "ID: 105",
+            "img/0105.png"
+        ]
+    },
+    "hitmonlee": {
+        "info": [
+            "Name: Hitmonlee",
+            "Type: Fighting",
+            "ID: 106",
+            "img/0106.png"
+        ]
+    },
+    "hitmonchan": {
+        "info": [
+            "Name: Hitmonchan",
+            "Type: Fighting",
+            "ID: 107",
+            "img/0107.png"
+        ]
+    },
+    "lickitung": {
+        "info": [
+            "Name: Lickitung",
+            "Type: Normal",
+            "ID: 108",
+            "img/0108.png"
+        ]
+    },
+    "koffing": {
+        "info": [
+            "Name: Koffing",
+            "Type: Poison",
+            "ID: 109",
+            "img/0109.png"
+        ]
+    },
+    "weezing": {
+        "info": [
+            "Name: Weezing",
+            "Type: Poison",
+            "ID: 110",
+            "img/0110.png"
+        ]
+    },
+    "rhyhorn": {
+        "info": [
+            "Name: Rhyhorn",
+            "Type: Ground/Rock",
+            "ID: 111",
+            "img/0111.png"
+        ]
+    },
+    "rhydon": {
+        "info": [
+            "Name: Rhydon",
+            "Type: Ground/Rock",
+            "ID: 112",
+            "img/0112.png"
+        ]
+    },
+    "chansey": {
+        "info": [
+            "Name: Chansey",
+            "Type: Normal",
+            "ID: 113",
+            "img/0113.png"
+        ]
+    },
+    "tangela": {
+        "info": [
+            "Name: Tangela",
+            "Type: Grass",
+            "ID: 114",
+            "img/0114.png"
+        ]
+    },
+    "kangaskhan": {
+        "info": [
+            "Name: Kangaskhan",
+            "Type: Normal",
+            "ID: 115",
+            "img/0115.png"
+        ]
+    },
+    "horsea": {
+        "info": [
+            "Name: Horsea",
+            "Type: Water",
+            "ID: 116",
+            "img/0116.png"
+        ]
+    },
+    "seadra": {
+        "info": [
+            "Name: Seadra",
+            "Type: Water",
+            "ID: 117",
+            "img/0117.png"
+        ]
+    },
+    "goldeen": {
+        "info": [
+            "Name: Goldeen",
+            "Type: Water",
+            "ID: 118",
+            "img/0118.png"
+        ]
+    },
+    "seaking": {
+        "info": [
+            "Name: Seaking",
+            "Type: Water",
+            "ID: 119",
+            "img/0119.png"
+        ]
+    },
+    "staryu": {
+        "info": [
+            "Name: Staryu",
+            "Type: Water",
+            "ID: 120",
+            "img/0120.png"
+        ]
+    },
+    "starmie": {
+        "info": [
+            "Name: Starmie",
+            "Type: Water/Psychic",
+            "ID: 121",
+            "img/0121.png"
+        ]
+    },
+    "mr.mime": {
+        "info": [
+            "Name: Mr. Mime",
+            "Type: Psychic/Fairy",
+            "ID: 122",
+            "img/0122.png"
+        ]
+    },
+    "scyther": {
+        "info": [
+            "Name: Scyther",
+            "Type: Bug/Flying",
+            "ID: 123",
+            "img/0123.png"
+        ]
+    },
+    "jynx": {
+        "info": [
+            "Name: Jynx",
+            "Type: Ice/Psychic",
+            "ID: 124",
+            "img/0124.png"
+        ]
+    },
+    "electabuzz": {
+        "info": [
+            "Name: Electabuzz",
+            "Type: Electric",
+            "ID: 125",
+            "img/0125.png"
+        ]
+    },
+    "magmar": {
+        "info": [
+            "Name: Magmar",
+            "Type: Fire",
+            "ID: 126",
+            "img/0126.png"
+        ]
+    },
+    "pinsir": {
+        "info": [
+            "Name: Pinsir",
+            "Type: Bug",
+            "ID: 127",
+            "img/0127.png"
+        ]
+    },
+    "tauros": {
+        "info": [
+            "Name: Tauros",
+            "Type: Normal",
+            "ID: 128",
+            "img/0128.png"
+        ]
+    },
+    "magikarp": {
+        "info": [
+            "Name: Magikarp",
+            "Type: Water",
+            "ID: 129",
+            "img/0129.png"
+        ]
+    },
+    "gyarados": {
+        "info": [
+            "Name: Gyarados",
+            "Type: Water/Flying",
+            "ID: 130",
+            "img/0130.png"
+        ]
+    },
+    "lapras": {
+        "info": [
+            "Name: Lapras",
+            "Type: Water/Ice",
+            "ID: 131",
+            "img/0131.png"
+        ]
+    },
+    "ditto": {
+        "info": [
+            "Name: Ditto",
+            "Type: Normal",
+            "ID: 132",
+            "img/0132.png"
+        ]
+    },
+    "eevee": {
+        "info": [
+            "Name: Eevee",
+            "Type: Normal",
+            "ID: 133",
+            "img/0133.png"
+        ]
+    },
+    "vaporeon": {
+        "info": [
+            "Name: Vaporeon",
+            "Type: Water",
+            "ID: 134",
+            "img/0134.png"
+        ]
+    },
+    "jolteon": {
+        "info": [
+            "Name: Jolteon",
+            "Type: Electric",
+            "ID: 135",
+            "img/0135.png"
+        ]
+    },
+    "flareon": {
+        "info": [
+            "Name: Flareon",
+            "Type: Fire",
+            "ID: 136",
+            "img/0136.png"
+        ]
+    },
+    "porygon": {
+        "info": [
+            "Name: Porygon",
+            "Type: Normal",
+            "ID: 137",
+            "img/0137.png"
+        ]
+    },
+    "omanyte": {
+        "info": [
+            "Name: Omanyte",
+            "Type: Rock/Water",
+            "ID: 138",
+            "img/0138.png"
+        ]
+    },
+    "omastar": {
+        "info": [
+            "Name: Omastar",
+            "Type: Rock/Water",
+            "ID: 139",
+            "img/0139.png"
+        ]
+    },
+    "kabuto": {
+        "info": [
+            "Name: Kabuto",
+            "Type: Rock/Water",
+            "ID: 140",
+            "img/0140.png"
+        ]
+    },
+    "kabutops": {
+        "info": [
+            "Name: Kabutops",
+            "Type: Rock/Water",
+            "ID: 141",
+            "img/0141.png"
+        ]
+    },
+    "aerodactyl": {
+        "info": [
+            "Name: Aerodactyl",
+            "Type: Rock/Flying",
+            "ID: 142",
+            "img/0142.png"
+        ]
+    },
+    "snorlax": {
+        "info": [
+            "Name: Snorlax",
+            "Type: Normal",
+            "ID: 143",
+            "img/0143.png"
+        ]
+    },
+    "articuno": {
+        "info": [
+            "Name: Articuno",
+            "Type: Ice/Flying",
+            "ID: 144",
+            "img/0144.png"
+        ]
+    },
+    "zapdos": {
+        "info": [
+            "Name: Zapdos",
+            "Type: Electric/Flying",
+            "ID: 145",
+            "img/0145.png"
+        ]
+    },
+    "moltres": {
+        "info": [
+            "Name: Moltres",
+            "Type: Fire/Flying",
+            "ID: 146",
+            "img/0146.png"
+        ]
+    },
+    "dratini": {
+        "info": [
+            "Name: Dratini",
+            "Type: Dragon",
+            "ID: 147",
+            "img/0147.png"
+        ]
+    },
+    "dragonair": {
+        "info": [
+            "Name: Dragonair",
+            "Type: Dragon",
+            "ID: 148",
+            "img/0148.png"
+        ]
+    },
+    "dragonite": {
+        "info": [
+            "Name: Dragonite",
+            "Type: Dragon/Flying",
+            "ID: 149",
+            "img/0149.png"
+        ]
+    },
+    "mewtwo": {
+        "info": [
+            "Name: Mewtwo",
+            "Type: Psychic",
+            "ID: 150",
+            "img/0150.png"
+        ]
+    }
+}
