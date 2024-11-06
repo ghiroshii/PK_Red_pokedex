@@ -29,3 +29,4 @@ Install the required libraries (pip install tkinter Pillow, tkinter, PIL, json)
 Run the script using python main.py.
 ```
     
+.
